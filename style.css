@@ -989,7 +989,7 @@ footer{
 @media (max-width:980px){
     .nav-content{
         margin-left: 1em;
-        height: 260px;
+        height: 310px;
         /* overflow-y: scroll; */
     }
 
